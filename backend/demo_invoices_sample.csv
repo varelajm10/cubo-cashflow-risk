@@ -1,0 +1,11 @@
+invoice_number,client_name,client_tier,amount,days_past_due,days_to_due
+FAC-2026-901,Mercado Global Logistica SA,AAA,850000,0,15
+FAC-2026-902,Petroquimica del Plata,AA,1200000,0,28
+FAC-2026-903,Telecomunicaciones Andinas,A,640000,12,-12
+FAC-2026-904,Alimentos balanceados del Litoral,BBB,430000,35,-35
+FAC-2026-905,Constructora Vias & Obras,HIGH_RISK,920000,78,-78
+FAC-2026-906,Distribuidora Farmaceutica Austral,AAA,1100000,0,45
+FAC-2026-907,Metalurgica Industrial San Martin,BBB,380000,45,-45
+FAC-2026-908,Minera Cordillerana Corp,AA,1500000,0,10
+FAC-2026-909,Textil Confecciones Express,HIGH_RISK,510000,95,-95
+FAC-2026-910,BioTech Innovation Labs,A,780000,0,30
